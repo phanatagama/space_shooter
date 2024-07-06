@@ -1,4 +1,22 @@
 # space_shooter
+![Space Shooter](https://socialify.git.ci/phanatagama/space_shooter/image?description=1&font=KoHo&forks=1&issues=1&pattern=Overlapping%20Hexagons&pulls=1&stargazers=1&theme=Auto)
+
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flame-F55252?style=for-the-badge&logo=flame&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+<p align="center">
+    Space Shooter is an 2D Game built with Flutter and Flame game engine
+    <br />
+    <a href="https://phanatagama.github.io/space_shooter">Play Game</a>
+    ·
+    <a href="https://github.com/phanatagama/space_shooter/issues/new">Report Bug</a>
+    ·
+    <a href="https://github.com/phanatagama/space_shooter/issues/new">Request Feature</a>
+  </p>
+
 # 💡 Project Overview
 
 This is a Flutter project called "space_shooter". It is a game where players control a spaceship and shoot down enemy spaceships.
@@ -20,7 +38,7 @@ The `SpawnComponent` class is another component we used in this project. It is r
 By using the `SpriteComponent` and `SpawnComponent`, we were able to create an engaging space shooter game with visually appealing graphics and dynamic enemy spawning.
 
 ## 👁️ Preview
-
+![Game Play](https://github.com/phanatagama/space_shooter/assets/48324618/87bc740c-a4f3-4c79-8c9d-b6cd6c3da06f)
 ## License
 
 The MIT License is a permissive open-source license that allows users to freely use, modify, and distribute software. It is one of the most popular licenses used in the software development community.
