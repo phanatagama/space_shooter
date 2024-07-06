@@ -19,7 +19,7 @@
 
 # 💡 Project Overview
 
-This is a Flutter project called "space_shooter". It is a game where players control a spaceship and shoot down enemy spaceships.
+This is a Flutter project called "space_shooter". It is a game where players control a spaceship and shoot down enemy spaceships. You can create your own by following the tutorial on official [Flame docs](https://docs.flame-engine.org/latest/tutorials/space_shooter/space_shooter.html)
 
 ## Tech Stack
 
