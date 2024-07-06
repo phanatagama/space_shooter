@@ -15,9 +15,9 @@ class SpaceShooterGame extends FlameGame with PanDetector, HasCollisionDetection
   Future<void> onLoad() async {
     final parallax = await loadParallaxComponent(
       [
-        ParallaxImageData('../../images/stars_0.png'),
-        ParallaxImageData('../../images/stars_1.png'),
-        ParallaxImageData('../../images/stars_2.png'),
+        ParallaxImageData('stars_0.png'),
+        ParallaxImageData('stars_1.png'),
+        ParallaxImageData('stars_2.png'),
       ],
       baseVelocity: Vector2(0, -5),
       repeat: ImageRepeat.repeat,
